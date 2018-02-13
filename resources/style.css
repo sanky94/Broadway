@@ -35,10 +35,13 @@ body{
   font-weight: bold;
   color: white;
 }
-.foot,a{
+.foot{
   background-color: dimgray;
   color: white;
 }
 .foot span{
   font-size: 11px;
+}
+.foot a{
+  color: white;
 }
