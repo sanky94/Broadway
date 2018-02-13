@@ -12,7 +12,7 @@ body{
   font-weight: bold;
   color: white;
 }
-.Head p,a{
+.Head p a{
   font-size: 18px;
   color: white;
 }
@@ -20,10 +20,25 @@ body{
   font-size: 32px;
   font-weight: bold;
 }
-.middle h2{
+.middle h2 .middle h2{
   font-size: 23px;
   font-weight: bold;
 }
-.middle p{
+.middle p .middle p{
   font-size: 14px;
+}
+.mid h1{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.foot,a{
+  background-color: dimgray;
+  color: white;
+}
+.foot span{
+  font-size: 11px;
 }
